@@ -1,0 +1,27 @@
+.input-form {
+    display: flex;
+    margin: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+}
+
+.title {
+    margin: 1rem;
+}
+
+.ok {
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+    width: 150px;
+    height: 50%;
+}
+
+.input-field {
+    width: 180px;
+    height: 35px;
+}

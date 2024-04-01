@@ -1,0 +1,9 @@
+.traning-items {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-delete {
+    cursor: pointer;
+}

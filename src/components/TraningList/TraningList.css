@@ -1,0 +1,19 @@
+.header-traning-field {
+    display: flex;
+    justify-content: space-between;
+    width: 460px;
+}
+
+.category {
+    display: flex;
+    text-align: center;
+}
+
+.list-result {
+    width: 100%;
+    border: 1px solid white !important;
+    border-radius: 20px;
+    min-height: 100px;
+    padding-top: 5px;
+}
+
